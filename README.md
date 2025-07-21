@@ -47,7 +47,3 @@ A **portable offline GPS tracker** with a web-based real-time map UI for bikers 
 - Remote area field workers
 - DIY vehicle GPS solutions
 - Raspberry Pi outdoor/IoT projects
-
----
-
-Made for explorers, coders, and makers! 🌍🛠️
